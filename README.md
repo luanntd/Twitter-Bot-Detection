@@ -49,7 +49,7 @@ We prioritize high **recall** results due to domain specificity, so the followin
 ## Collaborators
 
 <a href="https://github.com/luanntd/Twitter-Bot-Detection/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=luanntd/Twitter-Bot-Detection" alt="contrib.rocks image" />
+  <img src="https://contrib.rocks/image?repo=luanntd/Twitter-Bot-Detection" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
