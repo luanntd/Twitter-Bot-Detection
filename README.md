@@ -49,13 +49,13 @@ We prioritize high **recall** results due to domain specificity, so the followin
 ## Collaborators
 
 <a href="https://github.com/luanntd">
-  <img src="https://github.com/luanntd.png?size=100" width="60" style="border-radius: 50%;" />
+  <img src="https://github.com/luanntd.png?size=60" width="60" style="border-radius: 50%;" />
 </a>
 <a href="https://github.com/Khoa-Nguyen-Truong">
-  <img src="https://github.com/Khoa-Nguyen-Truong.png?size=100" width="60" style="border-radius: 50%;" />
+  <img src="https://github.com/Khoa-Nguyen-Truong.png?size=60" width="60" style="border-radius: 50%;" />
 </a>
 <a href="https://github.com/KHann-71">
-  <img src="https://github.com/KHann-71.png?size=100" width="60" style="border-radius: 50%;" />
+  <img src="https://github.com/KHann-71.png?size=60" width="60" style="border-radius: 50%;" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
