@@ -12,6 +12,12 @@ The project aims to detect non-human accounts from the **Twitter(X)** platform w
 - **ML Models**: Random Forest, LightGBM, Catboost
 - **Metrics**: Precision, Recall, F1
 
+### **Dependencies**
+All the required packages are listed in requirements.txt. To install all the dependencies, run
+```bash
+pip install -r requirements.txt
+```
+
 ## **Dataset**
 The dataset consists of various samples containing both human and non-human account. It is divided into following files:
 
@@ -41,3 +47,9 @@ We prioritize high **recall** results due to domain specificity, so the followin
 | Catboost | 73% | 64% |
 
 ## Collaborators
+
+<a href="https://github.com/luanntd/Twitter-Bot-Detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=luanntd/Twitter-Bot-Detection" alt="contrib.rocks image" />
+</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
